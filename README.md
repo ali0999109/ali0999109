@@ -8,7 +8,14 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ali0999109/configure-ad) + [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)
+ 
+- <b>AWS</b>
+
+- <b>PYTHON</b>
+ 
+
 <h2>🤳Connect with me:</h2>
+
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
