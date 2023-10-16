@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - Nessus Vulnerability Scanner(https://github.com/ali0999109/nessus)
+  - [Nessus Vulnerability Scanner](https://github.com/ali0999109/nessus)
   - Honey Pot Hosted In Azure(https://github.com/joshmadakorcc/post-install-config)
   - Microsoft Sentinel SIEM(https://github.com/joshmadakorcc/ticket-lifecycle)
   - SIEM integration with AI ChatGPT
