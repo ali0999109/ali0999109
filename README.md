@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ali0999109/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Cybersecurity</b>
+  - Nessus Vulnerability Scanner(https://github.com/ali0999109/osticket-prereqs)
+  - Honey Pot Hosted In Azure(https://github.com/joshmadakorcc/post-install-config)
+  - Microsoft Sentinel SIEM(https://github.com/joshmadakorcc/ticket-lifecycle)
+  - SIEM integration with AI ChatGPT
+  - Password Manager Hosted in AWS
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)
  
