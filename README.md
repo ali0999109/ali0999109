@@ -13,7 +13,13 @@
  
 - <b>AWS</b>
 
-- <b>PYTHON</b>
+- <b>Python</b>
+
+- <b>SQL</b>
+
+- <b>Linux</b>
+
+             
  
 
 <h2>🤳Connect with me:</h2>
