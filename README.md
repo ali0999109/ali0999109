@@ -5,7 +5,7 @@
 - <b>Cybersecurity</b>
   - [Nessus Vulnerability Scanner](https://github.com/ali0999109/nessus)
   - [Honey Pot Hosted In Azure](https://github.com/ali0999109/Honeypot)
-  - Microsoft Sentinel SIEM(https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Microsoft Sentinel SIEM](https://github.com/ali0999109/Microsoft)
   - SIEM integration with AI ChatGPT
   - Password Manager Hosted in AWS
 - <b>Microsoft Azure</b>
