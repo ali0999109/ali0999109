@@ -12,6 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)
  
 - <b>AWS</b>
+- [Aws 3 tier serverless web app](https://github.com/ali0999109/amplify)
 
 - <b>Python</b>
 
