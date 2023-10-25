@@ -15,7 +15,7 @@
  - [Creating user accounts with AD](https://github.com/ali0999109/New-users)
  
 - <b>AWS</b>
-- [Aws 3 tier serverless web app](https://github.com/ali0999109/amplify)
+- [Aws 3 Tier Serverless Web App](https://github.com/ali0999109/amplify)
 
 - <b>Python</b>
 
