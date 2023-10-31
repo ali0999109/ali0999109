@@ -12,8 +12,15 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)
  
  -  <b>Active directory</b>
- - [Creating OU & user accounts with AD](https://github.com/ali0999109/New-users)
- - Resetting user passwords in AD
+ - [Creating OU & user accounts](https://github.com/ali0999109/New-users)
+ - [Resetting user passwords in ](https://github.com/ali0999109/userpassword)
+ - [Disabling & deleting users accounts ](https://github.com/ali0999109/Disabling)
+ - [Creating and linking group policy objects](https://github.com/ali0999109/CreatingGroupPolicy)
+ - [Group policy troubleshooting](https://github.com/ali0999109/GPtroubleshooting)
+ - [Managing your workstations](https://github.com/ali0999109/MangWorks)
+ - [Securing your domain](https://github.com/ali0999109/SecuringDomain)
+ - [How to use PowerShell with active directory](https://github.com/ali0999109/PowershellAD)
+ - [Creating Backups](https://github.com/ali0999109/ADBackups)
  
 - <b>AWS</b>
 - [Aws 3 Tier Serverless Web App](https://github.com/ali0999109/amplify)
