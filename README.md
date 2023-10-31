@@ -12,7 +12,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)
  
  -  <b>Active directory</b>
- - [Creating user accounts with AD](https://github.com/ali0999109/New-users)
+ - [Creating OU & user accounts with AD](https://github.com/ali0999109/New-users)
+ - Resetting user passwords in AD
  
 - <b>AWS</b>
 - [Aws 3 Tier Serverless Web App](https://github.com/ali0999109/amplify)
