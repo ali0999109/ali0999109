@@ -13,7 +13,7 @@
  
  -  <b>Active directory</b>
  - [Creating OU & user accounts](https://github.com/ali0999109/New-users)
- - [Resetting user passwords in ](https://github.com/ali0999109/userpassword)
+ - [Resetting user passwords  ](https://github.com/ali0999109/userpassword)
  - [Disabling & deleting users accounts ](https://github.com/ali0999109/Disabling)
  - [Creating and linking group policy objects](https://github.com/ali0999109/CreatingGroupPolicy)
  - [Group policy troubleshooting](https://github.com/ali0999109/GPtroubleshooting)
