@@ -19,7 +19,7 @@
  - [Creating OU & user accounts](https://github.com/ali0999109/New-users)
  - [Resetting user passwords  ](https://github.com/ali0999109/userpassword)
  - [Disabling & deleting users accounts ](https://github.com/ali0999109/Disabling)
- - [Creating and linking group policy objects](https://github.com/ali0999109/CreatingGroupPolicy)
+ - [Group Policy in Depth](https://github.com/ali0999109/CreatingGroupPolicy)
  - [Group policy troubleshooting](https://github.com/ali0999109/GPtroubleshooting)
  - [Managing your workstations](https://github.com/ali0999109/MangWorks)
  - [Securing your domain](https://github.com/ali0999109/SecuringDomain)
