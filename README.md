@@ -20,9 +20,6 @@
  - [Resetting user passwords  ](https://github.com/ali0999109/userpassword)
  - [Disabling & deleting users accounts ](https://github.com/ali0999109/Disabling)
  - [Group Policy in Depth](https://github.com/ali0999109/CreatingGroupPolicy)
- - [Group policy troubleshooting](https://github.com/ali0999109/GPtroubleshooting)
- - [Managing your workstations](https://github.com/ali0999109/MangWorks)
- - [Securing your domain](https://github.com/ali0999109/SecuringDomain)
  - [How to use PowerShell with active directory](https://github.com/ali0999109/PowershellAD)
  - [Creating Backups](https://github.com/ali0999109/ADBackups)
  
