@@ -19,8 +19,8 @@
  - [Creating OU & user accounts](https://github.com/ali0999109/New-users)
  - [Resetting user passwords  ](https://github.com/ali0999109/userpassword)
  - [Disabling & deleting users accounts ](https://github.com/ali0999109/Disabling)
- - [Group Policy in Depth](https://github.com/ali0999109/CreatingGroupPolicy)
- - [How to use PowerShell with active directory](https://github.com/ali0999109/PowershellAD)
+ - [Group Policy in depth](https://github.com/ali0999109/CreatingGroupPolicy)
+ - [How to use PowerShell with active directory in depth](https://github.com/ali0999109/PowershellAD)
  - [Creating Backups](https://github.com/ali0999109/ADBackups)
  
 - <b>AWS</b>
