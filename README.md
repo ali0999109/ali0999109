@@ -32,7 +32,7 @@
    ---------
   [To-Do App](https://github.com/ali0999109/todo-app)
 
-- <b>SQL</b>
+- <b>SQL & TABLEAU</b>
    ------
 
 - <b>Linux</b>
