@@ -30,6 +30,8 @@
 - <b>Python</b>
    ---------
   [To-Do App](https://github.com/ali0999109/todo-app)
+  [Weather Forecast](https://github.com/ali0999109/WeatherForecast)
+  [WebCam Monitor]
 
 - <b>Tableau</b>
    ------
