@@ -31,7 +31,7 @@
    ---------
   [To-Do App](https://github.com/ali0999109/todo-app)
 
-- <b>SQL & TABLEAU</b>
+- <b>TABLEAU</b>
    ------
  - [Tableau Dashboard Store Revenue #1](https://github.com/ali0999109/Tableau1)
 
