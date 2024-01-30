@@ -22,7 +22,7 @@
  - [Group Policy in depth](https://github.com/ali0999109/CreatingGroupPolicy)
 
  
-- <b>AWS</b>
+- <b>Aws</b>
   ----------
 - [Aws 3 Tier Serverless Web App](https://github.com/ali0999109/amplify)
 
@@ -31,7 +31,7 @@
    ---------
   [To-Do App](https://github.com/ali0999109/todo-app)
 
-- <b>TABLEAU</b>
+- <b>Tableau</b>
    ------
  - [Tableau Dashboard Store Revenue #1](https://github.com/ali0999109/Tableau1)
 
