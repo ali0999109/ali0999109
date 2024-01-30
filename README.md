@@ -35,7 +35,6 @@
 - <b>SQL & TABLEAU</b>
    ------
  - [Tableau Dashboard Store Revenue #1](https://github.com/ali0999109/Tableau1)
- - [Tableau Dashboard Products # 2](https://github.com/ali0999109/tableau3)
 
 - <b>Linux</b>
    --------
