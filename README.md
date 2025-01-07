@@ -1,4 +1,4 @@
-<h1><a href="https://linkedin.com/in/Josh">Tech enthusiast</a>☺</h1>
+<h1><a>Tech enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
