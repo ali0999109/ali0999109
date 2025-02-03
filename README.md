@@ -2,7 +2,7 @@
 
 <h2> Projects </h2>
 
-- <b>Cybersecurity</b>
+- <b>Blue Team</b>
    --------------
 - [Nessus Vulnerability Scanner](https://github.com/ali0999109/nessus)                                        
 - [Honey Pot Hosted In Azure](https://github.com/ali0999109/Honeypot)
