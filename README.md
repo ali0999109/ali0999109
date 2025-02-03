@@ -1,4 +1,4 @@
-# Penetration Tester ☺
+# Penetration Tester 
 
 ## Projects
 
