@@ -10,7 +10,7 @@
 - **[Password Manager Hosted in AWS](https://github.com/ali0999109/Password)**
 - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)**
   
-### Active Directory
+### Red Team
 - **[Creating OU & user accounts](https://github.com/ali0999109/New-users)**
 - **[Resetting user passwords](https://github.com/ali0999109/userpassword)**
 - **[Disabling & deleting user accounts](https://github.com/ali0999109/Disabling)**
