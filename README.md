@@ -31,7 +31,4 @@
 - **[LDAP Injection script + Lab](https://github.com/ali0999109/WeatherForecast)**
 - **[XPath Injection script + Lab](https://github.com/ali0999109/Webcam)**
 
----
-
-Feel free to explore the links and dive into each project to see more details and the specific implementations.
 
