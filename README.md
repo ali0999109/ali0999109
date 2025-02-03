@@ -1,6 +1,6 @@
 <h1><a>Penetration Tester</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Projects </h2>
 
 - <b>Cybersecurity</b>
    --------------
