@@ -22,12 +22,18 @@
  - [Group Policy in depth](https://github.com/ali0999109/CreatingGroupPolicy)
 
  
-- <b>Aws</b>
+- <b>Cloud Security/Pentesting</b>
   ----------
-- [Aws 3 Tier Serverless Web App](https://github.com/ali0999109/amplify)
+- [IAM Privilege Escalation ](https://github.com/ali0999109/amplify)
+- [Vulnerable Lambda SQLi ](https://github.com/ali0999109/amplify)
+- [IAM Privilege Escalation by Rollback](https://github.com/ali0999109/amplify)
+- [Cloud breach via EC2 to reach S3 bucket](https://github.com/ali0999109/amplify)
+- [IMDSv2 Compromise](https://github.com/ali0999109/amplify)
+- [ECS Takeover](https://github.com/ali0999109/amplify)
 
 
-- <b>Python</b>
+
+- <b>Python pentesting</b>
    ---------
 - [Blind SQLi script + Lab](https://github.com/ali0999109/todo-app)
 - [LDAP injection script + Lab ](https://github.com/ali0999109/WeatherForecast)
