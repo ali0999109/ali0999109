@@ -8,10 +8,8 @@
 - **[Azure Microsoft Sentinel SIEM](https://github.com/ali0999109/Microsoft)**
 - **[Azure SIEM integration with AI ChatGPT](https://github.com/ali0999109/chatgpt)**
 - **[Password Manager Hosted in AWS](https://github.com/ali0999109/Password)**
-
-### Microsoft Azure
 - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ali0999109/configure-ad)**
-
+  
 ### Active Directory
 - **[Creating OU & user accounts](https://github.com/ali0999109/New-users)**
 - **[Resetting user passwords](https://github.com/ali0999109/userpassword)**
