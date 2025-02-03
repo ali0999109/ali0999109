@@ -29,6 +29,6 @@
 
 - <b>Python</b>
    ---------
-- [To-Do App](https://github.com/ali0999109/todo-app)
-- [Weather Forecast](https://github.com/ali0999109/WeatherForecast)
-- [WebCam Monitor](https://github.com/ali0999109/Webcam)
+- [Blind SQLi script + Lab](https://github.com/ali0999109/todo-app)
+- [LDAP injection script + Lab ](https://github.com/ali0999109/WeatherForecast)
+- [XPath injection script + Lab](https://github.com/ali0999109/Webcam)
