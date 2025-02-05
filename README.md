@@ -15,8 +15,8 @@
 - **[ECS Takeover](https://github.com/ali0999109/amplify)**
 
 ### Scripting
-- **[Blind SQLi script + Lab](https://github.com/ali0999109/todo-app)**
-- **[LDAP Injection script + Lab](https://github.com/ali0999109/WeatherForecast)**
-- **[XPath Injection script + Lab](https://github.com/ali0999109/Webcam)**
+- **[Blind SQLi script](https://github.com/ali0999109/todo-app)**
+- **[LDAP Injection script](https://github.com/ali0999109/WeatherForecast)**
+- **[XPath Injection script](https://github.com/ali0999109/Webcam)**
 
 
