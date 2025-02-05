@@ -14,7 +14,7 @@
 - **[IMDSv2 Compromise](https://github.com/ali0999109/amplify)**
 - **[ECS Takeover](https://github.com/ali0999109/amplify)**
 
-### Scripting
+### Python scripting
 - **[Blind SQLi script](https://github.com/ali0999109/todo-app)**
 - **[LDAP Injection script](https://github.com/ali0999109/WeatherForecast)**
 - **[XPath Injection script](https://github.com/ali0999109/Webcam)**
