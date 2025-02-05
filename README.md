@@ -17,7 +17,6 @@
 - **[Group Policy in depth](https://github.com/ali0999109/CreatingGroupPolicy)**
 
 ### Cloud Security / Pentesting
-- **[IAM Privilege Escalation](https://github.com/ali0999109/amplify)**
 - **[Vulnerable Lambda SQLi](https://github.com/ali0999109/amplify)**
 - **[IAM Privilege Escalation by Rollback](https://github.com/ali0999109/amplify)**
 - **[Cloud breach via EC2 to reach S3 bucket](https://github.com/ali0999109/amplify)**
