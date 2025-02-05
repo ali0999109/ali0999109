@@ -6,10 +6,6 @@
 
   
 ### Red Team
-- **[Creating OU & user accounts](https://github.com/ali0999109/New-users)**
-- **[Resetting user passwords](https://github.com/ali0999109/userpassword)**
-- **[Disabling & deleting user accounts](https://github.com/ali0999109/Disabling)**
-- **[Group Policy in depth](https://github.com/ali0999109/CreatingGroupPolicy)**
 
 ### Cloud Security / Pentesting
 - **[Vulnerable Lambda SQLi](https://github.com/ali0999109/amplify)**
