@@ -14,6 +14,6 @@
 - **[IMDSv2 Compromise](https://github.com/ali0999109/amplify)**
 - **[ECS Takeover](https://github.com/ali0999109/amplify)**
 
-### Python scripting
+### Python exploit development
 
 
